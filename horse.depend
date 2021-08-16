@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1629093772 source:c:\users\asus\downloads\msoftcon.cpp
+	"msoftcon.h"
+
+1629093770 c:\users\asus\downloads\msoftcon.h
+	<windows.h>
+	<conio.h>
+	<math.h>
+
